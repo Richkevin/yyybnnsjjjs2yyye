@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # configs
-AUUID=7fae9562-24b0-4b6b-acb0-85b2d42e5e81
+AUUID=cc0b8cab-15f6-4d7d-b792-81678873e87d
 CADDYIndexPage=https://raw.githubusercontent.com/Richkevin/yyybnnsjjjs2yyye/master/mikutap-master.zip
 CONFIGCADDY=https://raw.githubusercontent.com/Richkevin/yyybnnsjjjs2yyye/master/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/Richkevin/yyybnnsjjjs2yyye/master/richx.json
